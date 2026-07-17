@@ -19,7 +19,7 @@ This is a quite simple prompt loader that I made (with help from Gemini and Clau
 
 2. Clone this repository (or copy the node folder into the directory):
 
-<pre>git clone https://github.com/your-username/promptselect.git</pre>
+<pre>git clone https://github.com/magnetowasnotright/pk_promptselector.git</pre>
 
 The final folder structure should look like this:
 
@@ -90,7 +90,7 @@ Um nó customizado para o ComfyUI projetado para carregar, organizar e pré-visu
 
 2. Clone este repositório (ou copie a pasta do nó para o diretório):
 
-<pre>git clone https://github.com/seu-usuario/promptselect.git</pre>
+<pre>git clone https://github.com/magnetowasnotright/pk_promptselector.git</pre>
 
 A estrutura final das pastas deve ficar assim:
 
